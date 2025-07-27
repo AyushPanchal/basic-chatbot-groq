@@ -1,0 +1,10 @@
+[project]
+name = "langchain-groq-app"
+version = "0.1.0"
+dependencies = [
+    "langchain-groq",
+    "langchain",
+    "python-dotenv",
+    "ipykernel>=6.30.0",
+    "langchain-openai>=0.3.28",
+]
