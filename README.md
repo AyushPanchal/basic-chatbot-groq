@@ -77,26 +77,5 @@ response = chain.invoke({"question": question})
 print(response.content)
 ```
 
----
 
-## 🧹 Optional Cleanup
-
-To remove the virtual environment:
-
-```bash
-rm -rf .venv
-```
-
-
-
-
-
----
-
-Let me know if you'd like:
-- A version for converting this notebook into a script (`.py`) version
-- A Streamlit/Gradio wrapper for interactive UI
-- `requirements.txt` auto-generation
-
-I can include that too.
 
